@@ -285,7 +285,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  First 1500 FreeMint and 1500 leftover for 0.009eth.
+                  First 1000 will be freemint so HURRY!.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
