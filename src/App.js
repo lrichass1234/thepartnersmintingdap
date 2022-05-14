@@ -285,7 +285,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  First 1000 will be freemint so HURRY!
+                  First 1000 will be freemint.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
